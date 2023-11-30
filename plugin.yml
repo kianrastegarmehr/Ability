@@ -1,0 +1,13 @@
+name: Ability
+version: 1.0.0
+api: [3.0.0]
+author: kianrastegar
+description: Transform your server into an MMORPG game with powerful abilities and commands. Use various abilities to enhance your gameplay experience, and explore the world of possibilities in this exciting plugin.
+main: kianrastegar\Ability\Main
+commands:
+  ability:
+    description: Use abilities
+    usage: /a <ability>
+  help:
+    description: Show help for abilities
+    usage: /help ability
