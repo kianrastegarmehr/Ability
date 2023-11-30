@@ -5,7 +5,7 @@
 - Use various abilities to enhance your gameplay experience, and explore the world of possibilities in this exciting plugin.
 
 -- Commands
-- /a <ability> | Use abilities
+- /a {ability} | Use abilities
 - /help ability | Show help for abilities
 
 -- List of abilities
